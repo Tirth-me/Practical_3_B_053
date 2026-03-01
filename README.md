@@ -1,120 +1,63 @@
-# Java Practical Exercises
+<h1 align="center">Cloud Computing with DevOps Practical</h1>
 
-A collection of Java programs covering star patterns and number operations.
+<hr>
 
-## Programs Overview
+<h2>👨‍🎓 Students Information</h2>
 
-### Star Pattern Programs
+<table border="1" cellpadding="10">
+<tr>
+<th>Name</th>
+<th>Enrollment Number</th>
+<th>Practical Set</th>
+</tr>
 
-| File | Description |
-|------|-------------|
-| `Full_Pyramid.java` | Prints a full pyramid pattern of stars (5 rows) |
-| `Pyramid.java` | Prints an inverted pyramid pattern (6 rows) |
-| `Star.java` | Prints a simple triangle of stars (6 rows) |
+<tr>
+<td>tirth</td>
+<td>202504104610053</td>
+<td>Set B</td>
+</tr>
 
-### Number Programs
+<tr>
+<td>Mujahid</td>
+<td>202504104610054</td>
+<td>Set A</td>
+</tr>
 
-| File | Description |
-|------|-------------|
-| `OddNumbers.java` | Finds all odd numbers between 1-100, displays min, max, and sum |
-| `EvenNumbers.java` | Finds all even numbers between 1-100, displays min, max, and sum |
+</table>
 
-## How to Run
+<hr>
 
-### Compile all programs:
-```
-bash
-javac *.java
-javac mujju/Practical_3_B_053/*.java
-```
+<h2>Logos</h2>
 
-### Run individual programs:
+<h3>University: UTU</h3>
+<img src="images/utu_logo.png" width="200">
 
-**Star Patterns:**
-```
-bash
-java Full_Pyramid
-java Pyramid
-java Star
-```
+<h3>Department: SRIMCA</h3>
+<img src="images/srimca_logo.png" width="200">
 
-**Number Programs:**
-```
-bash
-java OddNumbers
-java EvenNumbers
-```
+<hr>
 
-## Expected Outputs
+<h2> Subject</h2>
+<p>Cloud Computing with DevOps</p>
 
-### Full_Pyramid
-```
-    * 
-   * * 
-  * * * 
- * * * * 
-* * * * * 
-```
+<hr>
 
-### Pyramid
-```
-* * * * * * 
-* * * * * 
-* * * * 
-* * * 
-* * 
-* 
-```
+<h2>Practical Overview</h2>
 
-### Star
-```
-* 
-* * 
-* * * 
-* * * * 
-* * * * * 
-* * * * * * 
-```
+<p>
+This repository contains practical exercises and assignments related to Cloud Computing with DevOps.
+It includes Python programs, GitHub operations, and proper documentation for all tasks.
+</p>
 
-### OddNumbers
-```
-List of odd numbers between 1 and 100:
-[1, 3, 5, 7, ..., 99]
-Minimum Odd Number: 1
-Maximum Odd Number: 99
-Sum of Odd Numbers: 2500
-```
+<hr>
 
-### EvenNumbers
-```
-Even numbers 1-100: [2, 4, 6, 8, ..., 100]
-Minimum even number: 2
-Maximum even number: 100
-Total (sum): 2550
-```
+<h2>Notes</h2>
 
-## Project Structure
+<ul>
+<li>Each practical task is organized in separate files.</li>
+<li>The <code>Requir.txt</code> file contains all dependencies needed for Java programs.</li>
+<li>Images and documentation are included to make the README informative and visually clear.</li>
+</ul>
 
-```
-.
-├── Full_Pyramid.java
-├── Full_Pyramid.class
-├── Pyramid.java
-├── Pyramid.class
-├── OddNumbers.java
-├── OddNumbers.class
-├── OddNumbers.java
-├── Star.class
-├── mujju/
-│   └── Practical_3_B_053/
-│       ├── Full_Pyramid.java
-│       ├── Full_Pyramid.class
-│       ├── EvenNumbers.java
-│       ├── EvenNumbers.class
-│       ├── Star.java
-│       └── Star.class
-```
+<hr>
 
-## Requirements
-
-- Java Development Kit (JDK) 8 or higher
