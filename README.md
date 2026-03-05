@@ -12,7 +12,7 @@
 </tr>
 
 <tr>
-<td>tirth</td>
+<td>Tirth</td>
 <td>202504104610053</td>
 <td>Set B</td>
 </tr>
