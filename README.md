@@ -29,12 +29,12 @@
 
 <h2>Logos</h2>
 
-<h3>University: UTU</h3>
+
 <img src="images/utu_logo.png" width="200">
+<h3>University: UTU</h3>
 
-<h3>Department: SRIMCA</h3>
 <img src="images/srimca_logo.png" width="200">
-
+<h3>Department: SRIMCA</h3>
 <hr>
 
 <h2> Subject</h2>
